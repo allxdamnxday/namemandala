@@ -1,0 +1,16 @@
+#popOut {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  #displayBox {
+    width: 400px;
+    height: 400px;
+  }
+  
+  #errorMsg {
+    margin-top: 10px;
+    color: red;
+  }
+  
